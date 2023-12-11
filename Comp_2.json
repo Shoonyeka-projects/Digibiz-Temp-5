@@ -1,0 +1,15 @@
+
+{
+    "aboutSection": {
+      "title": "About Studio",
+      "content": "It is a long established fact that a reader will be distracted by the readable content of a page",
+      "readMoreLink": "/read-more",
+      "playLink": "/play",
+      "playImageSrc": "images/play.png",
+      "aboutImageSrc": "images/about-img.png",
+
+      "title_meta": "12",
+      "content_meta": "96"
+    }
+  }
+  

@@ -1,0 +1,31 @@
+
+{
+    "blogSection": {
+      "title": "Latest Blog",
+      "content": "It is a long established fact that a reader will be distracted by the readable content of a page",
+      "readMoreLink": "/read-more",
+      "blogBgSrc": "images/gallery-bg.png",
+      "blogItems": [
+        {
+          "id": "b1",
+          "imageSrc": "images/blog1.jpg",
+          "title": "Best Photography",
+          "postBy": "Pic Studio",
+          "postDate": "16-01-2020",
+          "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum"
+        },
+        {
+          "id": "b2",
+          "imageSrc": "images/blog2.jpg",
+          "title": "Photography",
+          "postBy": "Pic Studio",
+          "postDate": "16-01-2020",
+          "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum"
+        }
+      ],
+
+      "title_meta": "11",
+      "content_meta": "96"
+    }
+  }
+  

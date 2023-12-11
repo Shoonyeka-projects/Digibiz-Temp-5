@@ -1,0 +1,77 @@
+
+{
+    "contactSection": {
+      "title": "Contact Us",
+      "links": [
+        {
+          "to": "/location",
+          "imageSrc": "images/location.png",
+          "text": "Location",
+          "detail": ""
+        },
+        {
+          "to": "/email",
+          "imageSrc": "images/mail.png",
+          "text": "demo@gmail.com",
+          "detail": "Email"
+        },
+        {
+          "to": "/contact",
+          "imageSrc": "images/call.png",
+          "text": "Call +01 1234567890",
+          "detail": "Contact"
+        }
+      ],
+      "navigationLinks": [
+        {
+          "to": "/",
+          "text": "Home",
+          "isCurrent": true
+        },
+        {
+          "to": "/about",
+          "text": "About"
+        },
+        {
+          "to": "/gallery",
+          "text": "Gallery"
+        },
+        {
+          "to": "/blog",
+          "text": "Blog"
+        },
+        {
+          "to": "/testimonial",
+          "text": "Testimonial"
+        }
+      ],
+      "socialLinks": [
+        {
+          "url": "#",
+          "imageSrc": "images/facebook.png",
+          "alt": "Facebook"
+        },
+        {
+          "url": "#",
+          "imageSrc": "images/twitter.png",
+          "alt": "Twitter"
+        },
+        {
+          "url": "#",
+          "imageSrc": "images/linkedin.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "url": "#",
+          "imageSrc": "images/instagram.png",
+          "alt": "Instagram"
+        },
+        {
+          "url": "#",
+          "imageSrc": "images/youtube.png",
+          "alt": "YouTube"
+        }
+      ]
+    }
+  }
+  

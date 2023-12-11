@@ -1,0 +1,24 @@
+
+{
+    "carouselItems": [
+      {
+        "title": "Pic Studio",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "linkText": "Request A Quote",
+
+        "title_meta": "10",
+        "content_meta": "96",
+        "linkText_meta": "15"
+      },
+      {
+        "title": "Pic Studio1",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "linkText": "Request A Quote1",
+
+        "title_meta": "11",
+        "content_meta": "96",
+        "linkText_meta": "16"
+      }
+    ]
+  }
+  
